@@ -123,9 +123,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumailhussain-engr&theme=radical" alt="Streak" />
 </p>
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumailhussain-engr&theme=radical" alt="GitHub profile contribution summary" />
-</p>    
+  
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kumailhussain-engr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
